@@ -5,9 +5,9 @@
 ./cesar -f filename key
 ```
 Or  
-``
+```
 ./cesar -s "string" key
-``
+```
 
 # DESCRIPTION
 
